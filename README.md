@@ -20,6 +20,15 @@
 +   [精通 Kotlin 安卓开发](docs/master-andr-dev-kt/SUMMARY.md)
 +   [移动取证实战](docs/prac-mobi-forensics/SUMMARY.md)
 +   [树莓派安卓项目](docs/respi-andr-proj/SUMMARY.md)
++   [安卓游戏开发手册](docs/andr-game-dev-hb/SUMMARY.md)
++   [BeagleBone Black 安卓硬件接口](docs/andr-hard-interf-beaglebone-black/SUMMARY.md)
++   [安卓 NDK 初学者指南中文第二版](docs/andr-ndk-begin-guide-2e/SUMMARY.md)
++   [安卓 SQLite 基础知识](docs/andr-sqlite-essense/SUMMARY.md)
++   [Android Studio 秘籍](docs/as-cb/SUMMARY.md)
++   [安卓纸板 VR 项目](docs/cardboard-vr-proj-andr/SUMMARY.md)
++   [安卓系统开发即时指南](docs/ins-andr-sys-dev-howto/SUMMARY.md)
++   [安卓取证学习手册](docs/learn-andr-forensics/SUMMARY.md)
++   [精通 Android Studio3](docs/master-as3/SUMMARY.md)
 
 ## 贡献指南
 
