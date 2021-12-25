@@ -1,6 +1,6 @@
-# Kotlin 安卓编程初学者手册
+# UE 安卓游戏开发学习手册
 
-> 原文：[Android Programming with Kotlin for Beginners](https://libgen.rs/book/index.php?md5=507BA3297D2037C2888F887A989A734A)
+> 原文：[Learning Unreal Engine Android game development](https://libgen.rs/book/index.php?md5=78FAB97D380A66E356B2945CC4E249E8)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 

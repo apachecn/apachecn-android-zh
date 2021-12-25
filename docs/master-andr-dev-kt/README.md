@@ -1,6 +1,6 @@
-# Kotlin 安卓编程初学者手册
+# 精通 Kotlin 安卓开发
 
-> 原文：[Android Programming with Kotlin for Beginners](https://libgen.rs/book/index.php?md5=507BA3297D2037C2888F887A989A734A)
+> 原文：[Mastering Android Development with Kotlin](https://libgen.rs/book/index.php?md5=5ADF07BDE12AEC5E67245035E25F68A5)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 

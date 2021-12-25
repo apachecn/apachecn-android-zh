@@ -1,4 +1,4 @@
-# Android 编程初学者手册中文第三版
+# 安卓编程初学者手册中文第三版
 
 > 原文：[Android Programming for Beginners Third Edition](https://libgen.rs/book/index.php?md5=CA49BB65CBF8BF164E4BEC9984F2213F)
 > 

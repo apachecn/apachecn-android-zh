@@ -1,6 +1,6 @@
-# Kotlin 安卓编程初学者手册
+# 树莓派安卓项目
 
-> 原文：[Android Programming with Kotlin for Beginners](https://libgen.rs/book/index.php?md5=507BA3297D2037C2888F887A989A734A)
+> 原文：[Raspberry Pi Android Projects](https://libgen.rs/book/index.php?md5=82683C8EDBA50EABD87C138CE7CE4264)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
