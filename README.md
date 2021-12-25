@@ -29,6 +29,16 @@
 +   [安卓系统开发即时指南](docs/ins-andr-sys-dev-howto/SUMMARY.md)
 +   [安卓取证学习手册](docs/learn-andr-forensics/SUMMARY.md)
 +   [精通 Android Studio3](docs/master-as3/SUMMARY.md)
++   [安卓取证教程](docs/andr-forensics/SUMMARY.md)
++   [安卓游戏编程示例](docs/andr-game-prog-exam/SUMMARY.md)
++   [安卓穿戴项目](docs/andr-wear-proj/SUMMARY.md)
++   [安卓增强现实应用开发](docs/ar-andr-app-dev/SUMMARY.md)
++   [Android Studio 应用开发](docs/as-app-dev/SUMMARY.md)
++   [构建 Cocos2dx 安卓游戏](docs/build-andr-game-c2dx/SUMMARY.md)
++   [使用安卓片段创建动态 UI](docs/create-dyna-ui-andr-frag/SUMMARY.md)
++   [Unity 安卓游戏开发学习手册](docs/learn-unity-andr-game-dev/SUMMARY.md)
++   [精通安卓游戏开发](docs/master-andr-game-dev/SUMMARY.md)
++   [精通安卓 NDK](docs/master-andr-ndk/SUMMARY.md)
 
 ## 贡献指南
 
